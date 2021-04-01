@@ -1,6 +1,7 @@
 #parrotMamboController
 
-I have managed to create this controller when I noticed the Android application to control Parrot Mambo won't work with my phone. With this program, you can control your Parrot Mambo with pc.
+I've created this controller when I noticed the Android application to control Parrot Mambo won't work with my phone. 
+You can control the Parrot Mambo minidrone with your pc.
 
 #Instructions
 
